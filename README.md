@@ -52,7 +52,7 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| **[Easy Book](https://github.com/YOUR_GITHUB_USERNAME/easy-book)** | Python, Django, MySQL, HTML/CSS, JS | Full-stack e-commerce bookstore platform featuring product discovery, cart workflows, user authentication, and normalized schema design. |
+| **[Easy Book]([https://github.com//easy-book](https://github.com/Midhunm107/EASY-BOOK))** | Python, Django, MySQL, HTML/CSS, JS | Full-stack e-commerce bookstore platform featuring product discovery, cart workflows, user authentication, and normalized schema design. |
 | **[Course Finder](https://github.com/YOUR_GITHUB_USERNAME/course-finder)** | PHP, MySQL, Web Technologies | Academic discovery portal enabling prospective students to search, filter, and compare academic courses and institutions with optimized querying. |
 | **[Sorting Algorithm Visualizer](https://github.com/YOUR_GITHUB_USERNAME/sorting-visualizer)** | Python, Tkinter | Interactive GUI application animating sorting algorithms (Bubble Sort, Merge Sort, Quick Sort) in real-time to demonstrate time and space complexity. |
 | **[Data Mining & Analytics](https://github.com/YOUR_GITHUB_USERNAME/data-mining-kdd)** | Python, Pandas, Scikit-learn | Implemented Knowledge Discovery in Databases (KDD) pipelines and classification models on sports analytics datasets. |
