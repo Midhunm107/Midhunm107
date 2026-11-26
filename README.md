@@ -53,21 +53,21 @@
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
 | **[Easy Book](https://github.com/Midhunm107/EASY-BOOK)** | Python, Django, MySQL, HTML/CSS, JS | Full-stack e-commerce bookstore platform featuring product discovery, cart workflows, user authentication, and normalized schema design. |
-| **[Course Finder](https://github.com/YOUR_GITHUB_USERNAME/course-finder)** | PHP, MySQL, Web Technologies | Academic discovery portal enabling prospective students to search, filter, and compare academic courses and institutions with optimized querying. |
-| **[Sorting Algorithm Visualizer](https://github.com/YOUR_GITHUB_USERNAME/sorting-visualizer)** | Python, Tkinter | Interactive GUI application animating sorting algorithms (Bubble Sort, Merge Sort, Quick Sort) in real-time to demonstrate time and space complexity. |
-| **[Data Mining & Analytics](https://github.com/YOUR_GITHUB_USERNAME/data-mining-kdd)** | Python, Pandas, Scikit-learn | Implemented Knowledge Discovery in Databases (KDD) pipelines and classification models on sports analytics datasets. |
+| **[Course Finder](https://github.com/Midhunm107/course-finder)** | PHP, MySQL, Web Technologies | Academic discovery portal enabling prospective students to search, filter, and compare academic courses and institutions with optimized querying. |
+| **[Sorting Algorithm Visualizer](https://github.com/Midhunm107/sorting-visualizer)** | Python, Tkinter | Interactive GUI application animating sorting algorithms (Bubble Sort, Merge Sort, Quick Sort) in real-time to demonstrate time and space complexity. |
+| **[Data Mining & Analytics](https://github.com/Midhunm107/data-mining-kdd)** | Python, Pandas, Scikit-learn | Implemented Knowledge Discovery in Databases (KDD) pipelines and classification models on sports analytics datasets. |
 
 ---
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Midhunm107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Midhunm107&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Midhunm107E&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -78,7 +78,7 @@
   <a href="mailto:mmpillai107@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/midhunmpillai107" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
